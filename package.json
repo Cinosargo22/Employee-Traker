@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Israel2800/employee-tracker-challenge.git"
+    "url": "https://github.com/Cinosargo22/Employee-Traker"
   },
   "keywords": [],
-  "author": "Israel Aguilar",
+  "author": "Covas, Andres",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Israel2800/employee-tracker-challenge/issues"
+    "url": "https://github.com/Cinosargo22/Employee-Traker/issues"
   },
-  "homepage": "https://github.com/Israel2800/employee-tracker-challenge#readme",
+  "homepage": "",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.18.1",
