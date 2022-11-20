@@ -16,13 +16,13 @@ VALUES (1, "CEO", 3000, 1, true),
 
 -- Initial employees for the database.
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
-VALUES (1, "Axl", "Hull", 1, null),
-       (2, "Mitchell", "Booker", 2, 1),
-       (3, "Rohit", "Berna", 3, 2),
-       (4, "Lincoln", "Ashton", 3, 2),
-       (5, "Jedd", "Farrington", 4, 1),
-       (6, "Kareem", "Kaufman", 5, 5),
-       (7, "Luisa", "Hussain", 5, 5),
-       (8, "Christy", "Snow", 6, 1),
-       (9, "Billy-Joe", "Beach", 7, 8),
-       (10, "Laurel", "Kemp", 7, 8);
+VALUES (1, "Paula", "Covas", 1, null),
+       (2, "Andres", "Covas", 2, 1),
+       (3, "Laura", "Loperena", 3, 2),
+       (4, "Amado", "Daniel", 3, 2),
+       (5, "Omar", "Rodriguez", 4, 1),
+       (6, "Venecia", "Ramirez", 5, 5),
+       (7, "Leticia", "Ortiz", 5, 5),
+       (8, "Carlos", "Roman", 6, 1),
+       (9, "Mercedes", "Sosa", 7, 8),
+       (10, "Hector", "Lavoe", 7, 8);
