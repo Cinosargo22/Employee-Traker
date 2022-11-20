@@ -1,3 +1,4 @@
+-- Creating the database to be used, removing a previous one if it already existed.
 DROP DATABASE IF EXISTS employee_tracker_db;
 CREATE DATABASE employee_tracker_db;
 
