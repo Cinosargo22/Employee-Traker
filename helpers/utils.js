@@ -3,7 +3,7 @@ const { Console } = require('console');
 const { Transform } = require('stream');
 
 function table(input) {
-  // @see https://stackoverflow.com/a/67859384
+  
   const ts = new Transform({ transform(chunk, enc, cb) { cb(null, chunk) } })
   const logger = new Console({ stdout: ts })
   logger.table(input)
