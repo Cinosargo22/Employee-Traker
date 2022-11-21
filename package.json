@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Cinosargo22/Employee-Traker/issues"
   },
-  "homepage": "https://github.com/Cinosargo22/Employee-Traker#readme",
+  "homepage": "https://github.com/Cinosargo22/Employee-Traker/blob/main/README.md",
   "dependencies": {
     "inquirer": "^8.2.5",
     "mysql2": "^2.3.3"
